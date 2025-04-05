@@ -1,4 +1,4 @@
-# Semana 3 - Métricas de Desempeño y Evaluación de Modelos
+# Semana 3 - 4: - Métricas de Desempeño y Evaluación de Modelos
 
 ## Propósito
 Aprender a **evaluar modelos de aprendizaje automático**, tanto en clasificación como regresión, usando métricas adecuadas según el tipo de problema. También se introducen fundamentos del procesamiento de lenguaje natural (NLP).
