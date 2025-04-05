@@ -1,0 +1,14 @@
+{
+    "cSpell.language": "en,es",
+    "cSpell.words": [
+        "cuartil"
+    ],
+    "cSpell.customDictionaries": {
+        "custom-dictionary-workspace": {
+            "name": "custom-dictionary-workspace",
+            "path": "${workspaceFolder:diplomado-deep-learning}/.cspell/custom-dictionary-workspace.txt",
+            "addWords": true,
+            "scope": "workspace"
+        }
+    },
+}
