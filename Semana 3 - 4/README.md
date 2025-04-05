@@ -59,8 +59,10 @@ Aprender a **evaluar modelos de aprendizaje automático**, tanto en clasificaci�
 
 ---
 
-## Introducción a NLP
-- **Procesamiento de lenguaje natural** para análisis de texto.
-- Representación con **BOW (Bag of Words)** y **TF-IDF**.
-- Introducción a embeddings como **Word2Vec** y **Transformers**.
+## Actividades y Recursos
 
+- Google Colabs para práctica con procesamiento de texto y exploración de técnicas básicas:
+  - [Tutorial Métricas](https://colab.research.google.com/drive/1wuxUdkYf-SY7h2sHmsxaS8bLovruVsjM)
+  - [Ejercicio Depresión](https://colab.research.google.com/drive/19RH16tfh__-mOfbfdzwOQ4qTvpfE_qZP?usp=sharing)
+
+---
