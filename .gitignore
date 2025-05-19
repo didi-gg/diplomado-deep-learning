@@ -170,3 +170,8 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 .cspell/custom-dictionary-workspace.txt
+**/**/**/**/**.jpg
+**/**/**.h5
+**/**/**.data
+**/**/**.keras
+Semana 9/Talleres/12855452
